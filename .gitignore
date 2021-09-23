@@ -5,6 +5,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+yarn.lock*
+
 # Runtime data
 pids
 *.pid
@@ -33,6 +35,7 @@ bower_components
 build/Release
 
 # Dependency directories
+generated/
 node_modules/
 jspm_packages/
 
